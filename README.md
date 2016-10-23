@@ -66,7 +66,6 @@ rsync -z -r --partial --progress --rsh=ssh vps55:download/xxx.mp4  ./
 
 # TODO
 
-if I have 3 vps, but in this way I can only use one vps as 
+if I have 3 vps, but in this way I can only use one vps as download source
 
-sometime maybe we only have 
-
+sometime maybe we only have one file to download then I hope to use 3 vps together.
