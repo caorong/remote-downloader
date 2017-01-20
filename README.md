@@ -42,6 +42,10 @@ User root
 
 ## how to use?
 
+remove vps should prerequire 
+
+[aria2c](https://github.com/q3aql/aria2-static-builds) and rsync
+
 1. scp down.sh to remote machine(which is vps for download file overseas)'s user directory.
 ```
 [root@localhost download]# ls
